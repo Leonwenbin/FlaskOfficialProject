@@ -1,0 +1,4 @@
+FLASK_DEBUG=true
+FLASK_APP=flaskr
+FLASK_ENV=development
+SECRET_KEY=dev
